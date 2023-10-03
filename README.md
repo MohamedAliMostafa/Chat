@@ -1,11 +1,11 @@
-# Chat app
+# OneClick app
 
  **Flutter project.**
 
 ## Project Screen Shots
 
 
-**Chat app**
+**OneClick app**
 <table>
   <tr>
     <td><img src="https://github.com/MohamedAliMostafa/Chat/assets/132190049/2fc317ff-80da-40d3-90e3-777e8626f2da" width=150 height=300></td>
